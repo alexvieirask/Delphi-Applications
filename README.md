@@ -1,0 +1,1 @@
+Este repositório contém códigos escritos em pascal utilizando o Delphi com a finalidade de aperfeiçoar e entender as particularidades da criação de sistemas utilizando essa tecnologia.

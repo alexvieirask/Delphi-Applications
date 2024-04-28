@@ -1,0 +1,1 @@
+Criação de uma aplicação simples de agenda de contatos que contém conceitos de CRUD e conexão com banco de dados mySQL utilizando o XAMPP para configuração. Primeira configuração de conexão com um banco de dados para manipulação de dados.
